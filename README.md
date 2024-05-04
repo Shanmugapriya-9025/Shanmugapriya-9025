@@ -2,6 +2,8 @@
   <head>
     <tittle>hii</tittle>
     <h1>this is my page</h1>
+    <img source="![image](https://github.com/Shanmugapriya-9025/Shanmugapriya-9025/assets/168914146/2b7d15b3-a19b-44aa-92d8-376f022104bc)"/img>
+
     
   </head>
 </html>
